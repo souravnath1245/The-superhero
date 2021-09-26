@@ -9,8 +9,12 @@ function App() {
   
   return (
     <div className="app">
+      {/*============== Header Start  */}
       <Header  />
+      {/*============== Header End  */}
+      {/*============== Main Section Start  */}
       <Main  />
+      {/*============== Main Section End  */}
     </div>
   );
 }

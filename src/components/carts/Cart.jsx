@@ -3,11 +3,14 @@ import "./Cart.css";
 
 const Cart = (props) => {
   const { cart } = props;
+
+  //============================= Get Total Amount 
   let total = 0;
   for (let person of cart) {
     total = total + person.salary;
   }
-  let personName = "";
+  //========================== Get Person name to use handle Event 
+  let personName = '';
   for (let person of cart) {
     personName += person.name;
   }
@@ -27,7 +30,7 @@ const Cart = (props) => {
             <strong className="workerStyle">Total Price : ${total}</strong>
           </h5>
           <h2 className="personName">
-            <strong>{personName}</strong>
+            { personName }
           </h2>
         </div>
         <button
