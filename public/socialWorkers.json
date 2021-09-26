@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "5b21ca3eeb7f6fbccd471815",
+    "name": "Savrina Sullenberger",
+    "img": "https://722694.smushcdn.com/1292217/wp-content/uploads/2014/10/sabrina-sullenburger-100-200x300.jpg?lossy=1&strip=1&webp=1",
+    "details": "After ten years of teaching at Indiana University, Sabrina Sullenberger joined the faculty at Belmont University. She holds a PhD in Social Work from the University of North Carolina at Chapel Hill with research interests in poverty and child welfare. Her work has been internationally published with areas of exploration in the scholarship of teaching and learning.",
+    "popularity": 2.5,
+    "salary": 20000,
+    "publishDate": "2018-01-03T19:04:28.809Z"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471816",
+    "name": "David Crampton",
+    "img": "https://case.edu/socialwork/sites/case.edu.socialwork/files/styles/bio_listing/public/David-Crampton-lo-res-by-Steve-Zorc-June-2017-e1499865883605-1024x427.jpg?h=2835ff57&itok=oGpPhn9P",
+    "details": "David Crampton is an Associate Professor of Social Work at the Mandel School of Applied Social Sciences, Case Western Reserve University. He is an active member of the national team evaluating the Annie E. Casey Foundations Family-to-Family Initiative.",
+    "popularity": 2.5,
+    "salary": 22000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471817",
+    "name": "Ellen DeVoe",
+    "img": "https://haleysheavenlyscents.com/uploads/biography/2019/7/12/American%20social%20worker%20&%20professor%20Ellen%20DeVoe%20owns%20the%20net%20worth%20in%206-digit%20figure-1562918357681.jpg",
+    "details": "Associate Professor and PhD Program Director of Social Work at Boston University, Ellen DeVoe is considered one of the most influential social workers alive today. She is recognized for her research on the study of violence exposure on children.",
+    "popularity": 3.5,
+    "salary": 30000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471819",
+    "name": "Celia Williamson",
+    "img": "https://pbs.twimg.com/media/EUcPqyMXQAISvgy.jpg",
+    "details": "Professor of Social Work and Criminal Justice at the University of Toledo, Celia Williamson is a community advocate and researcher in the areas of human trafficking and prostitution. Williamson is the Founder of the Second Chance Program and Co-Chair of the Lucas County Human Trafficking Coalition. ",
+    "popularity": 3.5,
+    "salary": 32000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181a",
+    "name": "Joe Kort",
+    "img": "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/151328549_10159025658994133_4644143514019052306_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEnYmRvuBsuxpuZ8STeH4tAH1AaPVPUIdEfUBo9U9Qh0a4kq8Ki5yeqDDD9BpK4arb5drDmwie7RDSTDGQ90b0O&_nc_ohc=HVhQM-NJy4gAX9P8G72&tn=NTXl_ii9VjWuMdfX&_nc_ht=scontent.fdac24-1.fna&oh=25826ab9795166be7d9003bc346dc705&oe=61759285",
+    "details": "Known for his devoted career in advancing social acceptance, Joe Kort is an openly gay clinical social worker and author of four books and numerous journal publications. Kort received his undergraduate degree in social work from Michigan State University and two masters degrees from Wayne State University.",
+    "popularity": 3.5,
+    "salary": 33000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181b",
+    "name": "Mariko Yamada",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/MarikoYamada2015.jpg",
+    "details": "Mariko Yamada is a social worker and civil servant turned Democratic assemblywoman from Californias 4th Assembly district. Her parents were held in Japanese internment camps during World War II and her roots are grounded in poverty.",
+    "popularity": 3.5,
+    "salary": 30000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181e",
+    "name": "Tamara Grigsby.",
+    "img": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/1/a0/1a0c0982-d558-50f3-a9c8-76b0781970c4/56e846e421e2d.image.jpg?resize=534%2C780",
+    "details": "A graduate of Howard University and the University of Wisconsin-Madison, Tamara Grigsby is a former university professor and social worker, known for her time served as the Democratic Party member of the Wisconsin State Assembly. ",
+    "popularity": 4.5,
+    "salary": 45000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181f",
+    "name": "Joan Levy Zlotnik",
+    "img": "https://haleysheavenlyscents.com/uploads/biography/2019/6/28/American%20social%20worker%20Joan%20Levy%20Zlotnik%20net%20worth,%20house,%20cars,%20personal%20life,%20age,%20height-1561722279476.JPG",
+    "details": "Director of the Social Work Policy Institute, Joan Levy Zlotnik is an award-winning social worker recognized for her work and dedication to the field. She previously served as the Director of Special Projects at the Council on Social Work Education and currently acts as editor of a book series.",
+    "popularity": 3.6,
+    "salary": 37000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471825",
+    "name": "Darrell Wheeler",
+    "img": "https://www.lgbtqiahealtheducation.org/wp-content/uploads/2018/04/Wheeler-headshot-2020.jpeg",
+    "popularity": 4,
+    "salary": 40000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471823",
+    "name": "Angelo McClain",
+    "img": "https://www.socialworkers.org/portals/0/Images/_News/SW-Advocates/McClain-300sq.jpg",
+    "details": "Angelo McClain is the Chief Executive Officer of the National Association of Social Workers. After serving six years as the Commissioner for the Massachusetts Department of Children and Families, Dr. McClain moved to his current role of leading growth and support to the social work profession.",
+    "popularity": 3.9,
+    "salary": 39000
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471828",
+    "name": "Stephanie Berzin",
+    "img": "https://www.simmons.edu/sites/default/files/styles/360x360/public/2019-03/faculty-StephanieBerzin.jpg?h=5273c5c2&itok=80ZLl0YI",
+    "details": "Stephanie Berzin is the Chief Executive Officer of the National Association of Social Workers. After serving six years as the Commissioner for the Massachusetts Department of Children and Families, Dr. McClain moved to his current role of leading growth and support to the social work profession. ",
+    "popularity": 3.8,
+    "salary": 38000
+  }
+]
