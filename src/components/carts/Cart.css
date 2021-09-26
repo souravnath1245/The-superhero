@@ -1,0 +1,12 @@
+.orderWorker {
+  border: 2px solid gray;
+  border-radius: 20px;
+  padding: 5px;
+  margin-top: 200px;
+}
+.personName {
+  border: 2px solid lightblue;
+  color: white;
+  background: black;
+  padding: 2px;
+}
